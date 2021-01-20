@@ -1,0 +1,16 @@
+{
+  "name": "random-color-generator-20210119",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spankoj/random-color-generator-20210119.git",
+  "author": "Janos Spanyol <spanyesz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "color-name": "^1.1.4",
+    "colornames": "^1.1.1",
+    "i": "^0.3.6",
+    "randomcolor": "^0.6.2",
+    "randomize-hex": "^1.0.7"
+  }
+}
